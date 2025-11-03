@@ -14,7 +14,7 @@
       <img src="https://d.kstore.dev/download/14943/zfb.jpg" width="150" alt="支付宝二维码" />
     </td>
     <td align="left" valign="bottom">
-      <img src="https://d.kstore.dev/download/14943/wxzc.png" width="150" alt="微信二维码" />
+      <img src="https://d.kstore.dev/download/14943/wxzc.jpg" width="150" alt="微信二维码" />
     </td>
   </tr>
 </table>
