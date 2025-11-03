@@ -1,10 +1,8 @@
-<h1 align="left">☕ 请我喝杯咖啡</h1>
+# ☕ 请我喝杯咖啡
 
-<p align="left">
 如果您喜欢本项目接口，或认为它对您有帮助，  
-欢迎请我喝一杯咖啡！☕️<br>
+欢迎请我喝一杯咖啡！☕️  
 感谢每一份支持与陪伴！💪
-</p>
 
 <!-- 二维码横排，靠左显示 -->
 <div align="left">
@@ -20,9 +18,18 @@
   </table>
 </div>
 
-<h2 align="left">使用方法</h2>
-<ol align="left">
-  <li>访问 <a href="https://ptus815.dpdns.org/" target="_blank">https://ptus815.dpdns.org/</a> 下载 <strong>Fongmi</strong> 或 <strong>OK影视盒子</strong>。</li>
-  <li>打开网站后，点击 <strong>复制接口</strong> 获取接口链接。</li>
-  <li>启动影视盒子软件，进入 <strong>设置 → 点播</strong> 栏，粘贴接口链接即可使用。</li>
-</ol>
+---
+
+## 使用方法
+
+1. 访问 [https://ptus815.dpdns.org/](https://ptus815.dpdns.org/) 下载 **Fongmi** 或 **OK影视盒子**。  
+2. 打开网站后，点击 **复制接口** 获取接口链接。  
+3. 启动影视盒子软件，进入 **设置 → 点播** 栏，粘贴接口链接即可使用。
+
+---
+
+## 致谢
+
+本项目能够顺利运行，离不开开源社区的支持。特别感谢 [FongMi/TV](https://github.com/FongMi/TV) 提供的开源影视盒子项目，并为用户提供稳定的点播体验。  
+
+感谢所有开源贡献者的辛勤付出，让开源生态不断发展，使更多优秀项目得以落地。
