@@ -35,7 +35,7 @@
 
 ---
 
-# 🌈 plugin-repo ⭐⭐ (English Version)
+# 🌈 plugin-repo ⭐⭐ 
 
 This interface primarily features 🌈-themed videos including 🚫 content, providing efficient and stable video aggregation interfaces for easy access to a rich variety of video content.  
 Dedicated to offering convenience and support for multicultural and gender-friendly communities. 🏳️‍🌈
