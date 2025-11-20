@@ -18,7 +18,7 @@
 
 | 支付宝二维码 | 微信二维码 |
 |--------------|------------|
-| ![支付宝二维码](https://d.kstore.dev/download/14943/zfb.jpg) | ![微信二维码](https://d.kstore.dev/download/14943/wxzc.jpg) |
+| ![支付宝二维码](https://pub-85865b999f5f4d7198c78bf548ef497e.r2.dev/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251120181709_4.jpg) | ![微信二维码](https://pub-85865b999f5f4d7198c78bf548ef497e.r2.dev/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-11-20_181706_540.jpg) |
 
 ---
 
