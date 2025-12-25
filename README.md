@@ -1,12 +1,12 @@
 # 🌈 plugin-repo ⭐⭐
 
-本接口主要内容是 🌈 主题的影视含 🚫，🏳️‍🌈
+本接口主要内容是 🌈
 
 ---
 
 ## 📖 使用方法
 
-1. 访问 [https://ptus815.dpdns.org/](https://ptus815.dpdns.org/) 下载 **Fongmi** 或 **OK影视盒子**。  
+1. 访问 [https://cmnqi.dpdns.org/](https://cmnqi.dpdns.org/) 下载 **Fongmi** 或 **OK影视盒子**。  
 2. 打开网站后，点击 **复制接口** 获取接口链接。  
 3. 启动影视盒子软件，进入 **设置 → 点播** 栏，粘贴接口链接即可使用。
 
