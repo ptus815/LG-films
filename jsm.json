@@ -56,19 +56,6 @@
 			}
 		},
 		{
-      "key": "🌈tt1069",
-      "name": "tt1069",
-      "type": 3,
-      "api": "./tt.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-      },
-		{
 			"key":"bili",
 			"name":"B站 | Bili[jar]",
 			"type":3,
